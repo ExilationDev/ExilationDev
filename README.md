@@ -1,8 +1,8 @@
 <h2> supernatural game developer who doesn't know how to compose music </h2>
 
 	System.out.println(String.format("Hello, %2$s! This is %s speaking!", "ExilationDev", "World")); // Java
- 	Console.WriteLine(string.Format("Hello, {1}! This is {0} speaking!", "Exilation", "World")); // C#
- 	print("Hello, {obj}! This is {name} speaking!".format(name = "World", obj = "ExilationDev")) // Python
+ 	Console.WriteLine(string.Format("Hello, {1}! This is {0} speaking!", "ExilationDev", "World")); // C#
+ 	print("Hello, {obj}! This is {name} speaking!".format(name = "ExilationDev", obj = "World")) // Python
 
 <h3>I code using:</h3>
 <ul>
