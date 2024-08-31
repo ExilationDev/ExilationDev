@@ -1,10 +1,10 @@
-<h2> supernatural game developer who doesn't know how to compose music </h2>
+<h2> a supernatural game developer who doesn't know how to compose music </h2>
 
 	System.out.println(String.format("Hello, %2$s! This is %s speaking!", "ExilationDev", "World")); // Java
  	Console.WriteLine(string.Format("Hello, {1}! This is {0} speaking!", "ExilationDev", "World")); // C#
  	print("Hello, {obj}! This is {name} speaking!".format(name = "ExilationDev", obj = "World")) // Python
 
-<h3>I code using:</h3>
+<h3>I code with:</h3>
 <ul>
 	<li><b>HTML / CSS / JavaScript</b> for <i>Web Development</i></li>
 	<li><b>ActionScript3</b> for <i>Game Development Concepts</i></li>
@@ -13,7 +13,7 @@
 	<li><b>Python</b> for <i>Machine Learning</i></li>
 </ul>
 <br>
-<h3>IDEs that I use:</h3>
+<h3>IDEs that I utilize with:</h3>
 <ul>
 	<li><b>Visual Studio 2022 & Visual Studio Code</b> for <i>C#, Python, ActionScript3, and XML</i></li>
 	<li><b>Apache NetBeans</b> for <i>Java</i></li>
