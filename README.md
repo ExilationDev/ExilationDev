@@ -1,5 +1,4 @@
 <h2> supernatural game developer who doesn't know how to compose music </h2>
-<h3> and also a vector artist </h3>
 
 	System.out.println(String.format("Hello, %2$s! This is %s speaking!", "ExilationDev", "World")); // Java
  	Console.WriteLine(string.Format("Hello, {1}! This is {0} speaking!", "ExilationDev", "World")); // C#
@@ -19,7 +18,7 @@
 	<li><b>Visual Studio 2022 & Visual Studio Code</b> for <i>C#, Python, ActionScript3, and XML</i></li>
 	<li><b>Apache NetBeans</b> for <i>Java</i></li>
 	<li><b>Android Studio</b> for <i>Java</i></li>
-	<li><b>Adobe Animate 2022</b> for <i>ActionScript3 + Art</i></li>
+	<li><b>Adobe Animate 2022</b> for <i>ActionScript3 + Vector Art</i></li>
 </ul>
 <br>
 <br>
