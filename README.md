@@ -1,4 +1,5 @@
 <h2> supernatural game developer who doesn't know how to compose music </h2>
+<h3> and also a vector artist </h3>
 
 	System.out.println(String.format("Hello, %2$s! This is %s speaking!", "ExilationDev", "World")); // Java
  	Console.WriteLine(string.Format("Hello, {1}! This is {0} speaking!", "ExilationDev", "World")); // C#
@@ -23,6 +24,7 @@
 <br>
 <br>
 Check out <a href="https://exilation.itch.io/">my itch.io page!</a> I mostly put my projects there.
+
 <!---
 ExilationDev/ExilationDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
