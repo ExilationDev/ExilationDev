@@ -1,4 +1,4 @@
-<h2> a supernatural game developer who doesn't know how to compose music </h2>
+<h2> a game developer who doesn't know how to compose music </h2>
 
 	System.out.println(String.format("Hello, %2$s! This is %s speaking!", "ExilationDev", "World")); // Java
  	Console.WriteLine(string.Format("Hello, {1}! This is {0} speaking!", "ExilationDev", "World")); // C#
@@ -6,8 +6,8 @@
 
 <h3>I code with:</h3>
 <ul>
-	<li><b>HTML / CSS / JavaScript</b> for <i>Web Development</i></li>
-	<li><b>ActionScript3</b> for <i>Game Development Concepts</i></li>
+	<li><b>HTML, CSS, and JavaScript</b> for <i>Web Development</i></li>
+	<li><b>ActionScript 3.0</b> for <i>Game Development Concepts</i></li>
 	<li><b>Java</b> for <i>Data Structures and Algorithms, and Software Development</i></li>
 	<li><b>C#</b> for <i>Game Development and Software Development</i></li>
 	<li><b>Python</b> for <i>Machine Learning</i></li>
@@ -15,10 +15,11 @@
 <br>
 <h3>IDEs that I utilize with:</h3>
 <ul>
-	<li><b>Visual Studio 2022 & Visual Studio Code</b> for <i>C#, Python, ActionScript3, and XML</i></li>
+	<li><b>Visual Studio and Visual Studio Code</b> for <i>C#, Python, ActionScript 3.0, and XML</i></li>
 	<li><b>Apache NetBeans</b> for <i>Java</i></li>
+	<li><b>Eclipse</b> for <i>Java</i></li>
 	<li><b>Android Studio</b> for <i>Java</i></li>
-	<li><b>Adobe Animate 2022</b> for <i>ActionScript3 + Vector Art</i></li>
+	<li><b>Adobe Animate</b> for <i>ActionScript 3.0</i></li>
 </ul>
 <br>
 <br>
