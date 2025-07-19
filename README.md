@@ -6,19 +6,19 @@
 
 <h3>I code with:</h3>
 <ul>
-	<li><b>HTML, CSS, and JavaScript</b> for <i>Web Development</i></li>
-	<li><b>ActionScript 3.0</b> for <i>Game Development Concepts</i></li>
+	<li><b>HTML, CSS, and JavaScript (NodeJS, ExpressJS, and EJS)</b> for <i>Full-Stack Web Development</i></li>
+	<li><b>ActionScript 3.0</b> for <i>Concept and Game Design</i></li>
 	<li><b>Java</b> for <i>Data Structures and Algorithms, and Software Development</i></li>
 	<li><b>C#</b> for <i>Game Development and Software Development</i></li>
-	<li><b>Python</b> for <i>Machine Learning</i></li>
+	<li><b>Python</b> for <i>Machine Learning, Data Science, and Data Structures and Algorithms</i></li>
 </ul>
 <br>
 <h3>IDEs that I utilize with:</h3>
 <ul>
-	<li><b>Visual Studio and Visual Studio Code</b> for <i>C#, Python, ActionScript 3.0, and XML</i></li>
-	<li><b>Apache NetBeans</b> for <i>Java</i></li>
-	<li><b>Eclipse</b> for <i>Java</i></li>
-	<li><b>Android Studio</b> for <i>Java</i></li>
+	<li><b>Visual Studio and Visual Studio Code</b> for <i>Web Development, Game Development, and Software Development</i></li>
+	<li><b>Apache NetBeans</b> for <i>Software Development in Java</i></li>
+	<li><b>Eclipse</b> for <i>Software Development in Java</i></li>
+	<li><b>Android Studio</b> for <i>Mobile App Development in Java</i></li>
 	<li><b>Adobe Animate</b> for <i>ActionScript 3.0</i></li>
 </ul>
 <br>
