@@ -3,6 +3,8 @@
 	System.out.println(String.format("Hello, %2$s! This is %s speaking!", "ExilationDev", "World")); // Java
  	Console.WriteLine(string.Format("Hello, {1}! This is {0} speaking!", "ExilationDev", "World")); // C#
  	print("Hello, {obj}! This is {name} speaking!".format(name = "ExilationDev", obj = "World")) // Python
+	// These lines of code print out:
+	// Hello, World! This is ExilationDev speaking!
 
 <h3>I code with:</h3>
 <ul>
@@ -20,6 +22,12 @@
 	<li><b>Eclipse</b> for <i>Software Development in Java</i></li>
 	<li><b>Android Studio</b> for <i>Mobile App Development in Java</i></li>
 	<li><b>Adobe Animate</b> for <i>ActionScript 3.0</i></li>
+</ul>
+<h3>Game Development Arsenal:</h3>
+<ul>
+	<li><b>Unity</b></li>
+	<li><b>Godot</b></li>
+	<li><b>Love2D</b></li>
 </ul>
 <br>
 <br>
