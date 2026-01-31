@@ -18,8 +18,8 @@ print("Hello, {obj}! This is {name} speaking!".format(name = "ExilationDev", obj
 | :--- | :--- | :--- |
 | **JavaScript**<br/> • Node.js<br/> • Express.js | Full-Stack Web Development | Visual Studio Code |
 | **Python** | Data Science | Visual Studio Code |
-| **Java**<br/> • libGDX | Game Development<br/>Software Development | Visual Studio Code<br/>Apache NetBeans<br/>Eclipse |
-| **C#** | Game Development<br/>Software Development | Visual Studio Community<br/>Visual Studio Code |
+| **Java**<br/> • libGDX<br/> • Swing | Game Development<br/>Software Development | Visual Studio Code<br/>Apache NetBeans<br/>Eclipse |
+| **C#**<br/> • ASP.NET<br/> • Unity | Game Development<br/>Software Development | Visual Studio Community<br/>Visual Studio Code |
 | **Lua**<br/> • Love2D | Game Development | Visual Studio Code |
 | **ActionScript 3.0** | *Conceptual* Game Development | Flash's Built-in Code Editor<br/>Visual Studio Code |
 
