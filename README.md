@@ -24,7 +24,8 @@ print("Hello, {obj}! This is {name} speaking!".format(name = "ExilationDev", obj
 | **ActionScript 3.0** | *Conceptual* Game Development | Flash's Built-in Code Editor<br/>Visual Studio Code |  |
 
 ## :eyes: LeetCode and NeetCode Roadmap Progress
-coming soon!
+visualization coming soon! for now, check out my leetcode profile!\
+https://leetcode.com/u/exilationdev/
 
 ## :link: Links
 Check out my [itch.io page](https://exilation.itch.io/)! I usually put my game projects there.
