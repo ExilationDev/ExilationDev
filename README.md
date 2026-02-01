@@ -19,7 +19,7 @@ print("Hello, {obj}! This is {name} speaking!".format(name = "ExilationDev", obj
 | **JavaScript**<br/> • Node.js<br/> • Express.js | Full-Stack Web Development | Visual Studio Code |  |
 | **Python** | Data Science | Visual Studio Code | [<img src="https://github.com/ExilationDev/ExilationDev/blob/main/assets/images/mimo_badge.png" alt="Mimo: Python Basics" width="10">](https://github.com/ExilationDev/ExilationDev/blob/main/assets/certificates/mimo-python-cert.pdf) [<img src="https://github.com/ExilationDev/ExilationDev/blob/main/assets/images/mimo_badge.png" alt="Mimo: Python Basics" width="10">](https://github.com/ExilationDev/ExilationDev/blob/main/assets/certificates/mimo-python-engineer-cert.pdf) |
 | **Java**<br/> • libGDX<br/> • Swing | Game Development<br/>Software Development | Visual Studio Code<br/>Apache NetBeans<br/>Eclipse |  |
-| **C#**<br/> • ASP.NET<br/> • Unity | Game Development<br/>Software Development | Visual Studio Community<br/>Visual Studio Code |  |
+| **C#**<br/> • ASP.NET<br/> • Unity | Game Development<br/>Software Development | Visual Studio Community<br/>Visual Studio Code | [<img src="https://github.com/ExilationDev/ExilationDev/blob/main/assets/images/hackerrank_badge.png" alt="HackerRank: C# (Basic)" width="10">](https://www.hackerrank.com/certificates/d81724cc05c0) |
 | **Lua**<br/> • Love2D | Game Development | Visual Studio Code |  |
 | **ActionScript 3.0** | *Conceptual* Game Development | Flash's Built-in Code Editor<br/>Visual Studio Code |  |
 
