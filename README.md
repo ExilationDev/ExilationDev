@@ -24,8 +24,8 @@ print("Hello, {obj}! This is {name} speaking!".format(name = "ExilationDev", obj
 | **ActionScript 3.0** | *Conceptual* Game Development | Flash's Built-in Code Editor<br/>Visual Studio Code |  |
 
 ## :eyes: Data Structures and Algorithms Roadmap Progress
-[![Codeforces](https://coding-cards.vercel.app/api/codeforces-stats?userName=crazy_exilation)](https://codeforces.com/profile/crazy_exilation)<br>
-[![Leetcode](https://coding-cards.vercel.app/api/leetcode-stats?action=profileCard&theme=dark&userName=exilationdev)](https://leetcode.com/u/exilationdev/)<br>
+[![Codeforces](https://codeforces-stats-vlx.vercel.app/api/card?username=crazy_exilation&theme=dark)](https://codeforces.com/profile/crazy_exilation)<br>
+[![Leetcode](https://leetcard.jacoblin.cool/ExilationDev?theme=dark&font=Roboto%20Mono&ext=heatmap)](https://leetcode.com/u/exilationdev/)<br>
 [![Codewars](https://www.codewars.com/users/ExilationDev/badges/large)](https://www.codewars.com/users/ExilationDev)
 
 ## :link: Links
