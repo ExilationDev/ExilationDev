@@ -23,9 +23,10 @@ print("Hello, {obj}! This is {name} speaking!".format(name = "ExilationDev", obj
 | **Lua**<br/> • Love2D | Game Development | Visual Studio Code |  |
 | **ActionScript 3.0** | *Conceptual* Game Development | Flash's Built-in Code Editor<br/>Visual Studio Code |  |
 
-## :eyes: LeetCode and NeetCode Roadmap Progress
-visualization coming soon! for now, check out my leetcode profile!\
-https://leetcode.com/u/exilationdev/
+## :eyes: Data Structures and Algorithms Roadmap Progress
+[![Codeforces](https://coding-cards.vercel.app/api/codeforces-stats?userName=crazy_exilation)](https://codeforces.com/profile/crazy_exilation)<br>
+[![Leetcode](https://coding-cards.vercel.app/api/leetcode-stats?action=profileCard&theme=dark&userName=exilationdev)](https://leetcode.com/u/exilationdev/)<br>
+[![Codewars](https://www.codewars.com/users/ExilationDev/badges/large)](https://www.codewars.com/users/ExilationDev)
 
 ## :link: Links
 Check out my [itch.io page](https://exilation.itch.io/)! I usually put my game projects there.
