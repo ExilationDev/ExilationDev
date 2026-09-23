@@ -1,4 +1,4 @@
-# :shipit: I am a game developer who doesn't know how to compose music
+# :shipit: I am a game developer who is learning how to compose music
 > [!TIP]
 > **Procrastination in programming** is okay, as long as you know what you're doing.
 ```java
