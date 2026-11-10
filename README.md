@@ -29,7 +29,8 @@ print("Hello, {obj}! This is {name} speaking!".format(name = "ExilationDev", obj
 [![Codewars](https://www.codewars.com/users/ExilationDev/badges/large)](https://www.codewars.com/users/ExilationDev)
 
 ## :link: Links
-Check out my [itch.io page](https://exilation.itch.io/)! I usually put my game projects there.
+Check out my [itch.io page](https://exilation.itch.io/)! I usually put my game projects there.\
+Interactive Portfolio in progress!
 
 <!---
 ExilationDev/ExilationDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
